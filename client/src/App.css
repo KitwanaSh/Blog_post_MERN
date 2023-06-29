@@ -78,6 +78,7 @@ button {
   padding: 7px 0;
   color: #fff;
   font-size: 1.2rem;
+  cursor: pointer;
 }
 form h1 {
   text-align: center;

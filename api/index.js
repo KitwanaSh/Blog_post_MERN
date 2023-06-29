@@ -27,5 +27,3 @@ app.post('/register', async (req,res) => {
 });
 
 app.listen(4000)
-// Pass44word
-// mongodb+srv://rodriguekitweze:Pass44word@cluster0.udmyspz.mongodb.net/?retryWrites=true&w=majority
